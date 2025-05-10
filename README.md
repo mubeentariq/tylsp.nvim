@@ -21,7 +21,7 @@ tylsp/
 │
 ├── lua/
 │   └── tylsp/
-│       └── init.lua        # Extend lsp-config with ty_server
+│       └── init.lua        # Extend lsp-config with tylsp
 │
 ├── plugin/
 │   └── tylsp.lua           # Declare dependencies
