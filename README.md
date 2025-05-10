@@ -17,7 +17,7 @@
 ## Project structure
 
 ```
-tylsp/
+tylsp.nvim/
 │
 ├── lua/
 │   └── tylsp/
