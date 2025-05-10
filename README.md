@@ -21,6 +21,7 @@ tylsp.nvim/
 │
 ├── lua/
 │   └── tylsp/
+│       └── build.lua       # Install python dependencies
 │       └── init.lua        # Setup tylsp if not existed
 │
 ├── plugin/
