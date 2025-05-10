@@ -1,0 +1,7 @@
+# macOS indexer
+.DS_Store
+
+# workspace setting
+.idea
+.ignore
+.vscode
