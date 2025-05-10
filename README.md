@@ -6,13 +6,20 @@
 [![Last commit](https://img.shields.io/github/last-commit/aekasitt/tylsp.nvim/master)](https://github.com/aekasitt/tylsp.nvim)
 ![Tylsp Banner](static/tylsp-banner.svg)
 
-## Lazy
+## Installation
+
+### Lazy
 
 ```lua
-{
-  'aekasitt/tylsp.nvim',
-}
+return { 'aekasitt/tylsp.nvim' }
 ```
+
+### Packer
+
+```lua
+use 'aekasitt/tylsp.nvim'
+```
+
 
 ## Project structure
 
