@@ -21,10 +21,10 @@ tylsp/
 │
 ├── lua/
 │   └── tylsp/
-│       └── init.lua        # Extend lsp-config with tylsp
+│       └── init.lua        # Setup tylsp if not existed
 │
 ├── plugin/
-│   └── tylsp.lua           # Declare dependencies
+│   └── tylsp.lua           # Verify dependencies before setup
 │
 ├── LICENSE                 # Details of MIT License
 └── README.md               # Descriptions and roadmap
@@ -34,7 +34,6 @@ tylsp/
 
 1. [astral-sh/ty](https://github.com/astral-sh/ty) plugin written by the amazing [@astral-sh](https://astral.sh) team
 1. [นฤชา - Narucha](https://www.f0nt.com/release/sov-narucha) typeface by [uvSOV - Worawut Thanawatanawanich](https://fb.com/worawut.thanawatanawanich)
-
 
 ## License
 
