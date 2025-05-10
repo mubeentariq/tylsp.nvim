@@ -11,7 +11,9 @@
 ### Lazy
 
 ```lua
-return { 'aekasitt/tylsp.nvim' }
+{
+  'aekasitt/tylsp.nvim',
+}
 ```
 
 ### Packer
