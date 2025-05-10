@@ -6,7 +6,7 @@
 [![Last commit](https://img.shields.io/github/last-commit/aekasitt/tylsp.nvim/master)](https://github.com/aekasitt/tylsp.nvim)
 ![Tylsp Banner](static/tylsp-banner.svg)
 
-### Lazy
+## Lazy
 
 ```lua
 {
@@ -30,7 +30,7 @@ tylsp.nvim/
 └── README.md               # Descriptions and roadmap
 ```
 
-### Acknowledgements
+## Acknowledgements
 
 1. [astral-sh/ty](https://github.com/astral-sh/ty) plugin written by the amazing [@astral-sh](https://astral.sh) team
 1. [นฤชา - Narucha](https://www.f0nt.com/release/sov-narucha) typeface by [uvSOV - Worawut Thanawatanawanich](https://fb.com/worawut.thanawatanawanich)
