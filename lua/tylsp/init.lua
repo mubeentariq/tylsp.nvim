@@ -19,6 +19,7 @@ M.setup = function()
           'setup.py',
           'setup.cfg',
           'requirements.txt',
+          'ty.toml',
           'uv.lock'
         ),
         settings = {},
